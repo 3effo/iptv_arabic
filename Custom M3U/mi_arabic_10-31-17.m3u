@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="LEBANON",MTV_TEST1
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8?nimblesessionid=583350
+#EXTINF:-1 group-title="LEBANON",MTV_TEST2
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8?nimblesessionid=583350
+#EXTINF:-1 group-title="LEBANON",MTV_TEST3
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/media-uwp9dhxo3_b625000_2555.ts?nimblesessionid=583350
+#EXTINF:-1 group-title="LEBANON",MTV_TEST4
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/media-uwp9dhxo3_b625000_2555.ts
 #EXTINF:-1 group-title="LEBANON",OTV1
 http://tv2iptv.com:8000/live/pierre/12345678/5316.ts
 #EXTINF:-1 group-title="LEBANON",OTV2
