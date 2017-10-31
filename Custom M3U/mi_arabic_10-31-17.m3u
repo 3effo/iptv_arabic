@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="LEBANON",OTV
+#EXTINF:-1 group-title="LEBANON",OTV1
 http://tv2iptv.com:8000/live/pierre/12345678/5316.ts
 #EXTINF:-1 group-title="LEBANON",OTV2
 http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/71.ts
@@ -7,17 +7,19 @@ http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/71.ts
 http://abc.myplay.live:8000/live/1223/1223/908.ts
 #EXTINF:-1 group-title="LEBANON",OTV4
 http://tv2iptv.com:8000/live/hesham/1234567/5316.ts
-#EXTINF:-1 group-title="LEBANON",MTV-Lebanon
+#EXTINF:-1 group-title="LEBANON",OTV5
+http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3258.ts
+#EXTINF:-1 group-title="LEBANON",MTV-Lebanon1
 http://tv2iptv.com:8000/live/pierre/12345678/971.ts
 #EXTINF:-1 group-title="LEBANON",MTV-Lebanon2
 http://tv2iptv.com:8000/live/hesham/1234567/971.ts
 #EXTINF:-1 group-title="LEBANON",AR:MTV-Lebanon3
 http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1870.ts
-#EXTINF:-1 group-title="LEBANON",Future-TV
+#EXTINF:-1 group-title="LEBANON",Future-TV1
 http://tv2iptv.com:8000/live/pierre/12345678/1017.ts
 #EXTINF:-1 group-title="LEBANON",Future-TV2
 http://tv2iptv.com:8000/live/hesham/1234567/1017.ts
-#EXTINF:-1 group-title="LEBANON",LBC-SAT
+#EXTINF:-1 group-title="LEBANON",LBC-SAT1
 http://tv2iptv.com:8000/live/hesham/1234567/287.ts
 #EXTINF:-1 group-title="LEBANON",LBC-SAT2
 http://tv2iptv.com:8000/live/pierre/12345678/287.ts
@@ -25,28 +27,27 @@ http://tv2iptv.com:8000/live/pierre/12345678/287.ts
 http://abc.myplay.live:8000/live/1223/1223/1499.ts
 #EXTINF:-1 group-title="LEBANON",LBC
 http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/480.ts
-#EXTINF:-1 group-title="LEBANON",LIBANON TV
-http://abc.myplay.live:8000/live/1223/1223/1496.ts
-#EXTINF:-1 group-title="LEBANON",LDC
+#EXTINF:-1 group-title="LEBANON",LDC1
 http://abc.myplay.live:8000/live/1223/1223/960.ts
 #EXTINF:-1 group-title="LEBANON",LDC2
 http://tv2iptv.com:8000/live/hesham/1234567/337.ts
-#EXTINF:-1 group-title="LEBANON",LDC LIVE
+#EXTINF:-1 group-title="LEBANON",LDC3
 http://3arabiptv.ddns.net:8000/live/dawoodhashmi39@gmail.com/GamdnTw3yZ/479.ts
-#EXTINF:-1 group-title="LEBANON",AR:LDC LEBANON
+#EXTINF:-1 group-title="LEBANON",AR:LDC4
 http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1872.ts
-#EXTINF:-1 group-title="LEBANON",OTV LIBANON
-http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3258.ts
-#EXTINF:-1 group-title="LEBANON",AL-JADEED
+#EXTINF:-1 group-title="LEBANON",LIBANON TV
+http://abc.myplay.live:8000/live/1223/1223/1496.ts
+#EXTINF:-1 group-title="LEBANON",AL-JADEED1
 http://tv2iptv.com:8000/live/hesham/1234567/965.ts
 #EXTINF:-1 group-title="LEBANON",AL-JADEED2
 http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/3549.ts
-#EXTINF:-1 group-title="LEBANON",Aljadeed LIVE
+#EXTINF:-1 group-title="LEBANON",AL-JADEED3
 http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/2610.ts
-#EXTINF:-1 group-title="LEBANON",Aljadeed.liban
+#EXTINF:-1 group-title="LEBANON",AL-JADEED4
 http://tv2iptv.com:8000/live/hesham/1234567/1454.ts
-#EXTINF:-1 group-title="LEBANON",Aljadeed.liban2
+#EXTINF:-1 group-title="LEBANON",AL-JADEED5
 http://tv2iptv.com:8000/live/pierre/12345678/1454.ts
+
 #EXTINF:-1 group-title="ALBANIA",7 NEWS
 http://clientportalpro.com:2500/live/VE5DWv4Ait/7KHLqRRZ9E/7200.ts
 #EXTINF:-1 group-title="ALBANIA",A1 SHQIPTARE
